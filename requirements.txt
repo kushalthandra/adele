@@ -1,0 +1,4 @@
+speech_recognition
+tkinter
+pyttsx3
+openai
