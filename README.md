@@ -6,3 +6,9 @@ to get your api key follow the below link and login to your chatgpt account and 
 https://platform.openai.com/docs/guides/gpt
 
 there are different python modules embeded in this repository to be used within a project 
+
+to use the modules in this repository please install the modules mentioned in the requirements.txt
+
+open the src folder to acccess the modules 
+
+please read the readme.md file in the src folder to know more about the different modules used 
